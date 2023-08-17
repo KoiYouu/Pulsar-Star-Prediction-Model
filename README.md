@@ -1,1 +1,1 @@
-# dcsi100_group_project
+# Pulsar_Star_Prediction_Model
